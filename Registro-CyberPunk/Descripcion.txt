@@ -1,0 +1,3 @@
+Diseño y desarrollo de una interfaz de autenticación (Login/Registro) de estilo Cyberpunk / Sci-Fi interactiva, desarrollada desde cero utilizando tecnologías web estándar (HTML, CSS y JavaScript Vanilla) sin depender de librerías externas para los efectos principales.
+
+El proyecto busca ofrecer una experiencia inmersiva de nivel AAA, combinando estética de terminal cibernética con interactividad en tiempo real, efectos visuales avanzados y respuesta auditiva sintetizada.
